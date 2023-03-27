@@ -1,0 +1,36 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #sv
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.svbg{
+  background-color: white;
+  color: rgb(177, 227, 144);
+  width: 50%;
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 20px;
+}
